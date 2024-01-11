@@ -1,5 +1,5 @@
 {
-    "Users": [
+    "users": [
       {"id": 1, "name": "John Doe", "email": "john@example.com", "cohort": "68"},
       {"id": 2, "name": "Jane Smith", "email": "jane@example.com", "cohort": "40"},
       {"id": 3, "name": "Alice Johnson", "email": "alice@example.com", "cohort": "68"},
@@ -7,7 +7,7 @@
       {"id": 5, "name": "Eva Brown", "email": "eva@example.com", "cohort": "50"},
       {"id": 6, "name": "Charlie Davis", "email": "charlie@example.com", "cohort": "68"}
     ],
-    "Posts": [
+    "posts": [
       {"id": 1, "title": "Cat-tastrophe Averted", "body": "The next time your feline friend embarks on a daring escapade, remember the power of treats, toys, and a good sense of humor. Because every adventure is a potential cat-tastrophe waiting to be averted! ", "date": "2024-01-01", "topicId": 1, "userId": 1},
       {"id": 2, "title": "Git and GitHub Epiphany", "body": "Guess what, coding comrades? I just had a lightbulb moment in the vast galaxy of version control! Git and GitHub, once mysterious constellations in my developer sky, have finally aligned.", "date": "2024-01-02", "topicId": 2, "userId": 2},
       {"id": 3, "title": "The Feline Guide to Yoga", "body": "Move over, downward dog! Cats are the new yoga gurus in town.", "date": "2024-01-03", "topicId": 1, "userId": 3},
@@ -19,13 +19,13 @@
       {"id": 9, "title": "The Purr-fect Plot", "body": "Attention, humans! Have you ever wondered what your feline friend is really up to when they're not napping or demanding treats? Your kitty might be plotting world domination one paw at a time!", "date": "2024-01-09", "topicId": 1, "userId": 3},
       {"id": 10, "title": "JavaScript Sorcery", "body": "Just learned the wizardry of asynchronous programming in JavaScript, and now I'm harnessing the power to make web elements dance to their own beat without waiting for the music to finish!", "date": "2024-01-10", "topicId": 2, "userId": 4}
     ],
-    "Topics": [
+    "topics": [
       {"id": 1, "name": "Cats"},
       {"id": 2, "name": "Web Development"},
       {"id": 3, "name": "Turtles"},
       {"id": 4, "name": "Artificial Intelligence"}
     ],
-    "Likes": [
+    "likes": [
       {"userId": 6, "postId": 1},
       {"userId": 2, "postId": 1},
       {"userId": 3, "postId": 2},
